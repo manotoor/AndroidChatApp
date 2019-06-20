@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1052195749854",
+    "firebase_url": "https://androidchatdb-a9e11.firebaseio.com",
+    "project_id": "androidchatdb-a9e11",
+    "storage_bucket": "androidchatdb-a9e11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052195749854:android:710fa7b33f8ba5c2",
+        "android_client_info": {
+          "package_name": "com.manotoor.androidchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052195749854-ee06ioq7ap4f3v82en0noobcjfhmmi2r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manotoor.androidchatapp",
+            "certificate_hash": "5bf6dca1c17abaf00d3171ecd53b4ccabfa070cb"
+          }
+        },
+        {
+          "client_id": "1052195749854-hd75r7erk9ntrvsmbl75t52bt4s262pk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBac8a5zF1GwCVGIk7n8-Jqg3_OUoHMrWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052195749854-hd75r7erk9ntrvsmbl75t52bt4s262pk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
